@@ -5,8 +5,8 @@ Universidad Nacional de la Patagonia San Juan Bosco — Facultad de Ingeniería.
 
 ## Integrantes
 
-- Estudiante A:
-- Estudiante B:
+- Estudiante A: Mirko Kornijew
+- Estudiante B: Iskari Pardo
 
 ## Cómo ejecutar
 
